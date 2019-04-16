@@ -1,7 +1,7 @@
 var mapcanvas1, mapcanvas2, mapcanvas3;
 function initialize(){
     var mapOption1 = {
-        zoom:2,
+        zoom:3,
         center:{lat:40.758904, lng:-73.985128}
     };
     var mapOption2 = {
